@@ -1,0 +1,41 @@
+STATION INSTRUCTIONS
+To Select Different Primary Weapons:<br>
+Stand on Platform.
+Have Primary Weapon In Hand. Pistol Holstered.
+Press 1-5 to Select.
+1 = Assault Rifle
+2 = Burst Rifle
+3 = Shotgun
+4 = Beam Gun
+5 = Launcher
+
+
+UNIVERSAL AMMO PICKUPS<br>
+All Ammo Pickups are for All Weapons.
+However, They Replenish Only the Current
+and Specific Primary Weapon or Pistol in Hand.
+
+HEALTH PICKUPS<br>
+Smaller Pickups Give Less Health.
+Bigger Pickups Give More Health.
+
+
+PLAYER CONTROLS:
+
+M = Toggle Quit Game Button
+WSAD = Movement
+Mouse = Look
+Spacebar = Jump
+C = Crouch
+L_Shift = Sprint (Relaxed Only)
+L_Ctrl = Walk
+R = Reload
+Q = Toggle Weapon to >Pistol>Primary>
+R_Mouse Button = Toggle >Aiming>Relaxed>
+(Sprinting/Faster Movement is Possible Relaxed)
+L_Mouse Button = Fire Weapon
+M_Mouse Button = Toggle Scope
+(Scope Only on Burst Rifle for Demo)
+P = Respawn Player
+
+
